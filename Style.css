@@ -1,0 +1,94 @@
+* { box-sizing: border-box;}
+.sub{
+  text-align: center;
+  text-decoration: underline;
+    font-family: cursive;
+}
+.aside{
+  text-align: center;
+  font-style: italic;
+
+}
+body{
+background: url("coffee_beans.jpg");
+  margin: 0
+   padding: 0
+
+}
+img {
+  height: 160px;
+  width: 220px;
+  display: block;
+  margin: 0 auto;
+}
+.logo{
+  height: 100px;
+  background-color: black ;
+  color: white;
+  position: relative;
+  font-family: cursive;
+  padding: 20px 21px 0 20px;
+
+  }
+  .logo h1,.logo p{
+    padding: 0;
+    margin: 0;
+  }
+
+
+nav {
+
+  padding: 2rem 3rem 0rem 0rem;
+  margin-left: 20px;
+}
+nav a{
+  margin: 0 25px;
+  font-size: 1.5rem;
+  font-family: cursive;
+  font-weight: bold;
+  color: 	#4B0082;
+}
+
+
+h3,h2 {
+  margin-bottom: 20px;
+   text-align: left;
+   text-decoration-style: bold;
+
+
+   }
+   .cont0 {
+     border: 2px solid #ccc;
+    /* background: #ddd;*/
+     margin: 0 auto;
+     height: 30rem;
+     width: 83.4rem;
+     display:inline-flex;
+     flex-wrap: wrap-reverse;
+     color: black;
+     letter-spacing: 1px;
+     text-align: left;
+   }
+
+.cont2 {
+  background: white;
+  height: 30rem;
+  width: 20.1rem;
+  border: 3px solid black;
+
+}
+.cont1 {
+  background: white;
+  height: 30rem;
+  width: 63rem;
+}
+footer {
+
+  background-color: black;
+  color: white;
+  text-align: right;
+ padding: 10px 0px 0px 0px;
+}
+ a:hover {
+	text-decoration: none;
+	font-family: Cambria, serif;
