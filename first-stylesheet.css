@@ -8,6 +8,10 @@
  a:hover {
      background-color: red;
   }
+p::first-letter {
+      color: #ff0000;
+      font-size: xx-large;
+}
 ul {
   font-weight: bold;
 }
